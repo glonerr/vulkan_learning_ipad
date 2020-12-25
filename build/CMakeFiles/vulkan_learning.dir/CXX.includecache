@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/VulkanApplication.h
+VulkanInstance.h
+../include/VulkanInstance.h
+
+../include/VulkanInstance.h
+header.h
+../include/header.h
+VulkanLED.h
+../include/VulkanLED.h
+
+../include/VulkanLED.h
+header.h
+../include/header.h
+vector
+-
+
+../include/header.h
+vulkan/vulkan.h
+-
+
+/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanApplication.cpp
+VulkanApplication.h
+/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanApplication.h
+
+/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanInstance.cpp
+VulkanInstance.h
+/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanInstance.h
+

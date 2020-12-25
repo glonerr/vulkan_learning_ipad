@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/build",
+  "command": "/bin/clang++-10  -DVK_USE_PLATFORM_XCB_KHR -I../include  -g   -std=gnu++11 -o CMakeFiles/vulkan_learning.dir/source/VulkanApplication.cpp.o -c /home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanApplication.cpp",
+  "file": "/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanApplication.cpp"
+},
+
+{
+  "directory": "/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/build",
+  "command": "/bin/clang++-10  -DVK_USE_PLATFORM_XCB_KHR -I../include  -g   -std=gnu++11 -o CMakeFiles/vulkan_learning.dir/source/VulkanInstance.cpp.o -c /home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanInstance.cpp",
+  "file": "/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanInstance.cpp"
+},
+
+{
+  "directory": "/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/build",
+  "command": "/bin/clang++-10  -DVK_USE_PLATFORM_XCB_KHR -I../include  -g   -std=gnu++11 -o CMakeFiles/vulkan_learning.dir/source/VulkanLED.cpp.o -c /home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanLED.cpp",
+  "file": "/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/VulkanLED.cpp"
+},
+
+{
+  "directory": "/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/build",
+  "command": "/bin/clang++-10  -DVK_USE_PLATFORM_XCB_KHR -I../include  -g   -std=gnu++11 -o CMakeFiles/vulkan_learning.dir/source/main.cpp.o -c /home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/main.cpp",
+  "file": "/home/lonerr/Documents/workspace/vscode/vulkan_learning_ipad/source/main.cpp"
+}
+]
